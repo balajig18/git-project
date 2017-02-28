@@ -1,0 +1,103 @@
+#main
+{
+	width: 890px;
+	height: 550px;
+	margin: 22px auto;
+	margin-top: 50px;
+	margin-left: 72px;
+	margin-right: 10px;
+	margin-bottom:10px;
+	padding: 20px 15px 20px 29px;
+	border-style:solid;
+	
+	border-color: #FFE4C4;
+
+border-bottom-right-radius:6em;
+border-top-left-radius:8em;
+
+font-weight: normal;
+background-color: #F5F5DC;
+font-family: Georgia, "Times New Roman", Times, serif;
+font-size:18px;
+color:#00CED1
+}
+
+.box1
+{
+top: 170px;
+left: 286px;
+width:282px;
+height:127px;
+background-color:Bisque ;
+box-shadow: 10px 10px 5px #888888;
+position: absolute;
+border-bottom-left-radius:6em;
+border-top-right-radius:8em;
+
+//border-bottom-right-radius:6em;
+border-top-left-radius:8em;
+}
+.box2
+{
+top: 170px;
+left: 594px;
+width:282px;
+height:127px;
+background-color:Lavender;
+box-shadow: 10px 10px 5px #888888;
+position: absolute;
+
+//border-bottom-left-radius:6em;
+border-top-right-radius:8em;
+
+border-bottom-right-radius:6em;
+border-top-left-radius:8em;
+}
+
+.box3
+{
+top: 310px;
+left: 286px;
+width:282px;
+height:127px;
+background-color:LightCyan;
+box-shadow: 10px 10px 5px #888888;
+position: absolute;
+
+border-bottom-left-radius:6em;
+//border-top-right-radius:8em;
+
+border-bottom-right-radius:6em;
+border-top-left-radius:8em;
+}
+
+.box4
+{
+top: 310px;
+left: 594px;
+width:282px;
+height:127px;
+background-color:Cornsilk ;
+box-shadow: 10px 10px 5px #888888;
+position: absolute;
+
+border-bottom-left-radius:6em;
+border-top-right-radius:8em;
+
+border-bottom-right-radius:6em;
+//border-top-left-radius:8em;
+}
+.ptop
+{
+margin-left: 100px;
+
+}
+
+#footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  height: 70px;
+  background-color: white;
+  width: 100%;
+}
